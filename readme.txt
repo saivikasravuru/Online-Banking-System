@@ -8,7 +8,7 @@ FIRST Download
 
 3"banking"
 
-4. Download the zip file/ download winrar
+4. Download the zip file/ download winrar.
 
 5. Extract the file and copy "banking" folder
 
